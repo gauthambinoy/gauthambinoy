@@ -2,12 +2,12 @@
 
 <!-- Animated typing header -->
 <a href="https://gauthambinoy.github.io">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=C8FF00&center=true&vCenter=true&repeat=true&width=500&height=70&lines=Gautham+Binoy;Software+Engineer+%40+JPMorgan;AI+%2F+ML+Engineer;Full+Stack+Developer;Cloud+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=C8FF00&center=true&vCenter=true&repeat=true&width=500&height=70&lines=Gautham+Binoy;Software+Engineer;AI+%2F+ML+Engineer;Full+Stack+Developer;Cloud+Architect" alt="Typing SVG" />
 </a>
 
 <br/>
 
-**`Full-Stack AI Engineer @ JPMorganChase  |  MSc Computing  |  Dublin, Ireland`**
+**`Full-Stack AI Engineer  |  MSc Computing  |  Dublin, Ireland`**
 
 <br/>
 
@@ -25,7 +25,7 @@
 
 ```yaml
 name: Gautham Binoy
-role: Full-Stack Developer @ JPMorganChase
+role: Full-Stack Developer & AI Engineer
 location: Dublin, Ireland
 education: MSc Information Systems in Computing — Dublin Business School
 focus: AI/ML, Cloud Architecture, Agent-Based Automation, Full Stack Engineering
