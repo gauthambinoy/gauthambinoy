@@ -1,80 +1,114 @@
-<div align="center">
+# Gautham Binoy
 
-<a href="https://gauthambinoy.github.io">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2600&pause=900&color=C8FF00&center=true&vCenter=true&repeat=true&width=760&height=72&lines=Gautham+Binoy;Software+Engineer+in+Dublin;Full-Stack+%7C+Backend+%7C+Data+%7C+Cloud;Python+%2B+TypeScript+%2B+Production-minded+systems" alt="Gautham Binoy - Software Engineer in Dublin" />
-</a>
+Software Engineer based in Dublin, Ireland. Focused on building full-stack applications, backend APIs, data-driven products, automation systems, AI-enabled workflows, and cloud-deployable software.
 
-`Dublin, Ireland` · `MSc Computing` · `Python` · `TypeScript` · `React` · `FastAPI` · `AWS` · `Docker`
+## Education
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-gauthambinoy.github.io-c8ff00?style=for-the-badge&logo=About.me&logoColor=black)](https://gauthambinoy.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gautham_Binoy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gauthambinoy)
-[![LeetCode](https://img.shields.io/badge/LeetCode-gauthambinoy-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/gauthambinoy)
+- MSc Computing
 
-</div>
+## Engineering Focus
 
----
+Independent software engineer building production-style projects across web, backend, data, AI, automation, and cloud infrastructure. Primary focus on practical systems that are runnable, documented, tested, and useful beyond a demo.
 
-I'm a software engineer based in Dublin, building practical systems across full-stack web, backend APIs, data products, automation, AI-assisted workflows, and cloud deployment.
+## Technical Stack
 
-I like projects that are useful end-to-end: clear user problem, reliable backend, clean interface, tests, deployment, and documentation good enough for another engineer to run without guessing.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-**Open to software engineering, full-stack, backend, data/AI, cloud, automation, and graduate/associate engineering roles in Ireland.**
+## Technical Expertise
 
----
+### Full-Stack Development
 
-### What I work with
+- Built React and Next.js applications with TypeScript, component-based UI, API integration, responsive layouts, and deployment-ready frontend structure
+- Developed full-stack products with authentication flows, dashboards, document processing, file handling, and external API integrations
+- Designed interfaces for complex workflows including job search analytics, resume scanning, real-time data dashboards, and AI-assisted tools
 
-| Area | Tools and technologies |
-|---|---|
-| **Languages** | Python, TypeScript, JavaScript, SQL, C# |
-| **Frontend** | React, Next.js, Tailwind CSS, Vite, Framer Motion |
-| **Backend** | FastAPI, Django, Flask, Node.js, Express, REST APIs |
-| **Data / AI** | RAG, FAISS, LangChain, NLP, Pandas, scikit-learn, LLM APIs |
-| **Databases** | PostgreSQL, MongoDB, SQLite, Firebase |
-| **Cloud / DevOps** | AWS, Docker, GitHub Actions, Vercel, Terraform basics |
-| **Automation** | Web scraping, browser automation, job pipelines, n8n |
+### Backend Engineering
 
----
+- Built REST APIs with FastAPI, Flask, Node.js, and Express for data processing, automation, scoring engines, and application workflows
+- Implemented request validation, structured routing, health checks, error handling, and service-oriented backend modules
+- Worked with PostgreSQL, MongoDB, SQLite, SQLAlchemy, Prisma-style schemas, and document-oriented data models
 
-### Selected work
+### Data, AI & Automation
 
-| Project | What it shows | Stack |
-|---|---|---|
-| [**Gnosis**](https://github.com/gauthambinoy/gnosis) | AI agent orchestration platform with FastAPI, Next.js, auth, RAG, observability, billing, Terraform, and CI workflows | Python, FastAPI, Next.js, PostgreSQL, Redis, AWS, Terraform |
-| [**Sapien Signal**](https://github.com/gauthambinoy/sapien-signal) | Real-time global data dashboard with 200+ API sources, strict TypeScript, validation, caching, charts, and CI | Next.js, TypeScript, Tailwind, SWR, Zod, Recharts |
-| [**Retriva RAG Engine**](https://github.com/gauthambinoy/retriva-hybrid-rag-engine) | Hybrid search and question-answering system using BM25, FAISS, reranking, FastAPI, and deployable infrastructure | Python, FastAPI, FAISS, LangChain, Docker |
-| [**ResumeShield**](https://github.com/gauthambinoy/axiom-resume-scanner) | Resume scanner combining ATS matching, document parsing, AI-text signals, CI, Docker, and a React interface | Python, FastAPI, React, TypeScript, Docker |
-| [**ClarityAI**](https://github.com/gauthambinoy/cipher-prose-truth) | NLP platform for text analysis with multiple detection signals, API endpoints, frontend, and deployment setup | Python, FastAPI, React, NLP, Docker |
-| [**Dwello**](https://github.com/gauthambinoy/dwello-real-estate-platform) | MERN real-estate platform with authentication, listings, storage, and AI-assisted listing descriptions | MongoDB, Express, React, Node.js, Firebase |
+- Built retrieval and NLP systems using RAG, FAISS, BM25, reranking, embeddings, LangChain, scikit-learn, and LLM APIs
+- Developed automation pipelines for job discovery, CV generation, document analysis, scraping, and structured data extraction
+- Created scoring engines for ATS matching, AI text signals, resume analysis, market data workflows, and real-time dashboards
 
-<div align="center">
+### Cloud, DevOps & Infrastructure
 
-[![View portfolio](https://img.shields.io/badge/view_portfolio-c8ff00?style=for-the-badge&logo=githubpages&logoColor=black)](https://gauthambinoy.github.io)
-[![All repositories](https://img.shields.io/badge/all_repositories-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gauthambinoy?tab=repositories)
+- Configured CI/CD pipelines with GitHub Actions for testing, linting, build verification, and deployment workflows
+- Containerised applications with Docker and Docker Compose for reproducible local and production-style environments
+- Worked with AWS services including EC2, S3, Lambda-style workflows, CloudFront concepts, and Terraform-based infrastructure patterns
 
-</div>
+### Software Quality
 
----
+- Prioritise readable project structure, clear setup instructions, typed code, environment examples, and runnable local development flows
+- Use validation, logging, tests, CI badges, documentation, architecture notes, and deployment guides to make projects easier to review
+- Focus on building software that another engineer can clone, run, inspect, and extend without hidden assumptions
 
-### Engineering signals I care about
+## Selected Projects
 
-- Clear setup instructions and runnable local environments
-- Tests, CI workflows, typed code, and sensible error handling
-- APIs with validation, authentication, rate limits, and useful docs
-- Deployment-ready projects with Docker, environment examples, and health checks
-- Interfaces that make complex data or workflows simple to use
+### Gnosis
 
----
+AI agent orchestration platform with backend APIs, frontend application structure, RAG, memory systems, observability, billing concepts, authentication, CI workflows, and Terraform-based infrastructure planning.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gauthambinoy&show_icons=true&hide_border=true&bg_color=0d1117&icon_color=c8ff00&title_color=c8ff00&text_color=a0a0a0&ring_color=c8ff00" height="165" alt="Gautham's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauthambinoy&layout=compact&hide_border=true&bg_color=0d1117&title_color=c8ff00&text_color=a0a0a0&langs_count=8" height="165" alt="Top languages" />
-</div>
+**Stack:** Python, FastAPI, Next.js, TypeScript, PostgreSQL, Redis, Docker, AWS, Terraform  
+**Repository:** [github.com/gauthambinoy/gnosis](https://github.com/gauthambinoy/gnosis)
 
-<br/>
+### Sapien Signal
 
-<div align="center">
+Real-time global data dashboard integrating public APIs across markets, weather, space, health, countries, energy, earthquakes, and technology signals. Includes validation, caching, charts, system health checks, and CI.
 
-**Based in Dublin. Building, learning, and looking for teams where I can contribute across product, engineering, data, and automation.**
+**Stack:** Next.js, TypeScript, Tailwind CSS, SWR, Zod, Recharts, GitHub Actions  
+**Repository:** [github.com/gauthambinoy/sapien-signal](https://github.com/gauthambinoy/sapien-signal)
 
-</div>
+### Retriva RAG Engine
+
+Hybrid retrieval and question-answering system combining BM25, FAISS vector search, reranking, FastAPI endpoints, document processing, and deployable backend structure.
+
+**Stack:** Python, FastAPI, FAISS, LangChain, Docker, Streamlit  
+**Repository:** [github.com/gauthambinoy/retriva-hybrid-rag-engine](https://github.com/gauthambinoy/retriva-hybrid-rag-engine)
+
+### ResumeShield
+
+Resume analysis platform combining ATS keyword matching, document parsing, text scoring, actionable recommendations, CI pipelines, Docker setup, and a React interface.
+
+**Stack:** Python, FastAPI, React, TypeScript, Docker, GitHub Actions  
+**Repository:** [github.com/gauthambinoy/axiom-resume-scanner](https://github.com/gauthambinoy/axiom-resume-scanner)
+
+### ClarityAI
+
+NLP text-analysis platform with multiple detection signals, backend API endpoints, frontend workflow, deployment configuration, and Docker support.
+
+**Stack:** Python, FastAPI, React, TypeScript, NLP, Docker  
+**Repository:** [github.com/gauthambinoy/cipher-prose-truth](https://github.com/gauthambinoy/cipher-prose-truth)
+
+### Dwello
+
+Full-stack real estate platform with listing management, authentication, storage integration, and AI-assisted listing description generation.
+
+**Stack:** MongoDB, Express, React, Node.js, Firebase, Tailwind CSS  
+**Repository:** [github.com/gauthambinoy/dwello-real-estate-platform](https://github.com/gauthambinoy/dwello-real-estate-platform)
+
+## Additional Skills
+
+- API design, documentation, OpenAPI, Postman, JSON schemas
+- Authentication, JWT, OAuth concepts, role-based access patterns
+- Web scraping, browser automation, scheduled workflows, data cleaning
+- Server-side rendering, static site generation, dashboard development
+- Linux, Bash, Git, GitHub, package management, environment configuration
+
+## Contact
+
+[Portfolio](https://gauthambinoy.github.io) · [LinkedIn](https://linkedin.com/in/gauthambinoy) · [GitHub](https://github.com/gauthambinoy) · [LeetCode](https://leetcode.com/u/gauthambinoy)
