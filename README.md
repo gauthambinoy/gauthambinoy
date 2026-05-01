@@ -42,49 +42,55 @@ Python · TypeScript · JavaScript · SQL · React · Next.js · Node.js · Fast
 - Add CI badges, architecture notes, environment examples, health checks, and runbooks where they make a project easier to review
 - Build projects so another engineer can clone them, understand the design, run them locally, and inspect the trade-offs
 
-## Selected Engineering Work
+## Portfolio Pin Board
+
+Recruiter-focused projects with live demos, CI, deployment notes, architecture documentation, and production-style setup.
 
 ### Gnosis
 
-AI agent orchestration platform covering backend APIs, frontend workflows, memory and retrieval systems, authentication, observability, billing concepts, CI, security checks, and Terraform-based infrastructure planning.
+AI agent orchestration platform covering backend APIs, frontend workflows, four-tier memory, retrieval, authentication, observability, billing concepts, CI, security checks, and Terraform-based infrastructure planning.
 
 **Stack:** Python, FastAPI, Next.js, TypeScript, PostgreSQL, Redis, Docker, AWS, Terraform  
 **Repository:** [github.com/gauthambinoy/gnosis](https://github.com/gauthambinoy/gnosis)
 
-### Sapien Signal
-
-Real-time global data dashboard integrating public APIs across markets, weather, countries, space, health, earthquakes, energy, and technology signals. Includes validation, caching, charts, system health checks, and CI.
-
-**Stack:** Next.js, TypeScript, Tailwind CSS, SWR, Zod, Recharts, GitHub Actions  
-**Repository:** [github.com/gauthambinoy/sapien-signal](https://github.com/gauthambinoy/sapien-signal)
-
 ### Retriva RAG Engine
 
-Hybrid retrieval system combining keyword search, vector search, reranking, FastAPI endpoints, document processing, and deployable backend structure.
+Production-style hybrid retrieval system combining BM25, FAISS vector search, reranking, FastAPI endpoints, document processing, health checks, Docker, CI, and deployment runbooks.
 
-**Stack:** Python, FastAPI, BM25, FAISS, LangChain, Docker, Streamlit  
+**Stack:** Python, FastAPI, BM25, FAISS, Gemini, Docker, GitHub Actions
+**Demo:** [gauthambinoy.github.io/retriva-hybrid-rag-engine](https://gauthambinoy.github.io/retriva-hybrid-rag-engine/)
 **Repository:** [github.com/gauthambinoy/retriva-hybrid-rag-engine](https://github.com/gauthambinoy/retriva-hybrid-rag-engine)
-
-### ResumeShield
-
-Resume analysis platform combining ATS keyword matching, document parsing, text scoring, recommendations, CI pipelines, Docker setup, and a React interface.
-
-**Stack:** Python, FastAPI, React, TypeScript, Docker, GitHub Actions  
-**Repository:** [github.com/gauthambinoy/axiom-resume-scanner](https://github.com/gauthambinoy/axiom-resume-scanner)
 
 ### ClarityAI
 
-Text-analysis platform with multiple NLP signals, backend API endpoints, frontend workflow, deployment configuration, and Docker support.
+AI text detection and NLP analysis platform with multiple detection signals, sample reports, backend API endpoints, frontend workflow, CI, Docker support, and deployment configuration.
 
-**Stack:** Python, FastAPI, React, TypeScript, NLP, Docker  
+**Stack:** Python, FastAPI, React, TypeScript, NLP, Docker
+**Demo:** [clarityai-pied.vercel.app](https://clarityai-pied.vercel.app)
 **Repository:** [github.com/gauthambinoy/cipher-prose-truth](https://github.com/gauthambinoy/cipher-prose-truth)
 
-### Dwello
+### Job Dashboard
 
-Full-stack real estate platform with listings, authentication, storage integration, and generated listing descriptions.
+Ireland graduate job aggregator that scrapes, deduplicates, and presents roles from multiple sources in a filterable dashboard with backend tests, deployment docs, and scheduled-refresh guidance.
 
-**Stack:** MongoDB, Express, React, Node.js, Firebase, Tailwind CSS  
-**Repository:** [github.com/gauthambinoy/dwello-real-estate-platform](https://github.com/gauthambinoy/dwello-real-estate-platform)
+**Stack:** TypeScript, Next.js, Node.js, React, scraping pipelines, GitHub Actions
+**Demo:** [job-dashboard-chi-rose.vercel.app](https://job-dashboard-chi-rose.vercel.app)
+**Repository:** [github.com/gauthambinoy/job-dashboard](https://github.com/gauthambinoy/job-dashboard)
+
+### Global Signal
+
+Real-time global intelligence dashboard integrating public APIs across markets, weather, countries, space, health, earthquakes, energy, and technology signals. Includes validation, charts, system health checks, and CI.
+
+**Stack:** Next.js, TypeScript, Tailwind CSS, SWR, Zod, Recharts, GitHub Actions
+**Repository:** [github.com/gauthambinoy/global-signal](https://github.com/gauthambinoy/global-signal)
+
+### Quantum Ledger
+
+Real-time stock and crypto portfolio tracker with analytics, watchlists, backend tests, frontend tests, Docker validation, CI, and a live product-style demo.
+
+**Stack:** JavaScript, React, Python, FastAPI, fintech APIs, Docker, GitHub Actions
+**Demo:** [cryptostock-pro.vercel.app](https://cryptostock-pro.vercel.app)
+**Repository:** [github.com/gauthambinoy/quantum-ledger](https://github.com/gauthambinoy/quantum-ledger)
 
 ## Additional Skills
 
