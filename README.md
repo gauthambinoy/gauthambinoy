@@ -82,6 +82,8 @@ Ireland graduate job aggregator that scrapes, deduplicates, and presents roles f
 Real-time global intelligence dashboard integrating public APIs across markets, weather, countries, space, health, earthquakes, energy, and technology signals. Includes validation, charts, system health checks, and CI.
 
 **Stack:** Next.js, TypeScript, Tailwind CSS, SWR, Zod, Recharts, GitHub Actions
+
+**Demo:** [unified-world-data.vercel.app](https://unified-world-data.vercel.app)
 **Repository:** [github.com/gauthambinoy/global-signal](https://github.com/gauthambinoy/global-signal)
 
 ### Quantum Ledger
